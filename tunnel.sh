@@ -64,13 +64,10 @@ fi
 
 echo -e "\e[96mCreating dropbear banner\e[0m"
 cat >> "$FILE2" <<EOL
-<h4>&#9734; <font color="#20B2AA">PRIVATE SERVER</font> &#9734;</h4>
-<font color="#8A2BE2">&#187; NO SPAM !!!</font><br>
-<font color="#A52A2A">&#187; NO DDOS !!!</font><br>
-<font color="#6495ED">&#187; NO HACKING !!!</font><br>
-<font color="#008B8B">&#187; NO CARDING !!!</font><br>
-<font color="#9932CC">&#187; NO TORRENT !!!</font><br>
-<font color="#1E90FF">&#187; NO OVER DOWNLOADING !!!</font><br>
+<h4>&#9734; <font color="#20B2AA">PRIVATE SERVER By ZeZoElkonamy</font> &#9734;</h4>
+<font color="#8A2BE2">&#187; ForLifeTime !!!</font><br>
+<font color="#A52A2A">&#187; Germany server !!!</font><br>
+<font color="#A52A2A">&#187; up to 300MBs !!!</font><br>
 <br>
 <b><font color="#FF6347">SSH</font> Auto Script 2.2</b>
 <br>
